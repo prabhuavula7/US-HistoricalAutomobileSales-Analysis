@@ -1,0 +1,7 @@
+folium
+io
+matplotlib
+numpy
+pandas
+requests
+seaborn
