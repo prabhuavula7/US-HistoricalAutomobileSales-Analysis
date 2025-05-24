@@ -16,7 +16,7 @@ This project performs an exploratory and visual analysis of historical U.S. auto
 
 ## 📁 Project Files
 
-- `dvpfinalpart1.ipynb`: Main analysis notebook
+- `US-AutomobileSales-VisualAnalysis.ipynb`: Main analysis notebook
 - `requirements.txt`: Python dependencies
 - `.gitignore`: Files to be ignored by Git
 
@@ -35,6 +35,6 @@ This project performs an exploratory and visual analysis of historical U.S. auto
 
 ---
 
-**Author**: Your Name  
+**Author**: Prabhu Avula  
 **License**: MIT  
-**Project Title**: `us-automobile-sales-visual-analysis`
+**Project Title**: `US-HistoricalAutomobileSales-Analysis`
